@@ -153,3 +153,10 @@ This keeps the extension:
 ## 6. Privacy
 
 This extension requests only `storage`, `notifications`, and host access to `mail.google.com`. It makes **zero network requests** — all parsing, scoring, and storage happen locally in your browser via `chrome.storage.local`. Uninstalling the extension deletes all stored history immediately.
+
+---
+
+## 7. Screenshot
+
+<img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/ddf61782-8f84-4401-a472-c47ccd3dada2" />
+
